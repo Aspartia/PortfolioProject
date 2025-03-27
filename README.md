@@ -1,2 +1,2 @@
 # PortfolioProject
-portfolio stuff
+It contains solutions to final exam questions.
